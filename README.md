@@ -24,7 +24,10 @@ Here are the data for the project:
 The code details for run_analysis.R is given in codebook and code have explanatory comments
 
 To run the script in terminal
+
 $Rscript run_analysis.R
+
 To run the script in Rconsole
+
 source("run_analysis.R")
 
